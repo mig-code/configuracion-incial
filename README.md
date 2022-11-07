@@ -293,8 +293,7 @@ Deberemos hacer algunas modificaciones para que no cree conflicto
     # top-most EditorConfig file
     
     root = true
-    
-    				  
+    		  
     
     [*]
     
